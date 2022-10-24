@@ -1,4 +1,4 @@
 # команды
 
-docker-compose up -d
-celery -A tasks.app worker -l INFO
+1) docker-compose up -d
+2) celery -A tasks.app worker -l INFO
